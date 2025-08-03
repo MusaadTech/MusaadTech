@@ -16,15 +16,18 @@ Back-end:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-Data/AI:  
+**AI / Data Science**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
 
 ### 📊 GitHub Stats
-![Musaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaadmh&show_icons=true&hide=issues&theme=default)
+![Musaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaadtech&show_icons=true&hide=issues&theme=default)
 
 ### 📫 Reach Me
 
