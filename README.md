@@ -7,7 +7,7 @@ So I asked ChatGPT to do it for me. Here's what it came up with:
 
 I value clarity, efficiency, and learning by building — if you're into that too, feel free to connect.
 
-### 🧰 Tech Stack  
+## 🧰 Tech Stack  
 Front-end:  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -18,22 +18,26 @@ Back-end:
 
 **AI / Data Science**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
 
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Musaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaadtech&show_icons=true&hide=issues&theme=default)
 
-### 📫 Reach Me
+## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaadmh)
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/MusaadTech)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaadmh)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
 
 <!--
 **MusaadTech/MusaadTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
