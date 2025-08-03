@@ -12,9 +12,12 @@ I value clarity, efficiency, and learning by building — if you're into that to
 **Front-end**  
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+
 
 **Back-end**  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MyBatis](https://img.shields.io/badge/MyBatis-005BAC?style=flat&logo=java&logoColor=white)](https://mybatis.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 
 **AI / Data Science**  
@@ -31,7 +34,14 @@ I value clarity, efficiency, and learning by building — if you're into that to
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org)
 
+## 📊 GitHub Stats
 
+![Musaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaadtech&show_icons=true&hide=issues&theme=default)
+
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaadmh)  
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
 
 <!--
 **MusaadTech/MusaadTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
