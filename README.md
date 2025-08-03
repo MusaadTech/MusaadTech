@@ -46,7 +46,7 @@ I value clarity, efficiency, and learning by building — if you're into that to
 ## 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@musaadmh-1A1F71?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaadmh)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
+[![X](https://img.shields.io/badge/X-@musaadmh-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/musaadmh)
 
 
 <!--
