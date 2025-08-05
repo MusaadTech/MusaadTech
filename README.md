@@ -21,12 +21,14 @@ I value clarity, efficiency, and learning by building ... if you're into that to
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
 
 
 **Back-end**  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MyBatis](https://img.shields.io/badge/MyBatis-005BAC?style=flat&logo=java&logoColor=white)](https://mybatis.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org)
+[![MyBatis](https://img.shields.io/badge/MyBatis-005BAC?style=flat&logo=java&logoColor=white)](https://mybatis.org)
 
 **AI / Data Science**  
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)](https://www.anaconda.com)
